@@ -3,3 +3,4 @@ numpy==1.18.5
 pillow
 pytesseract==0.3.8
 regex==2020.10.28 
+
